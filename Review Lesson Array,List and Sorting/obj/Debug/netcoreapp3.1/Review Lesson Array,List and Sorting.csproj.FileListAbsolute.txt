@@ -1,0 +1,13 @@
+C:\Users\BOICOMP20070033\source\repos\Review Lesson Array,List and Sorting\Review Lesson Array,List and Sorting\bin\Debug\netcoreapp3.1\Review Lesson Array,List and Sorting.exe
+C:\Users\BOICOMP20070033\source\repos\Review Lesson Array,List and Sorting\Review Lesson Array,List and Sorting\bin\Debug\netcoreapp3.1\Review Lesson Array,List and Sorting.deps.json
+C:\Users\BOICOMP20070033\source\repos\Review Lesson Array,List and Sorting\Review Lesson Array,List and Sorting\bin\Debug\netcoreapp3.1\Review Lesson Array,List and Sorting.runtimeconfig.json
+C:\Users\BOICOMP20070033\source\repos\Review Lesson Array,List and Sorting\Review Lesson Array,List and Sorting\bin\Debug\netcoreapp3.1\Review Lesson Array,List and Sorting.runtimeconfig.dev.json
+C:\Users\BOICOMP20070033\source\repos\Review Lesson Array,List and Sorting\Review Lesson Array,List and Sorting\bin\Debug\netcoreapp3.1\Review Lesson Array,List and Sorting.dll
+C:\Users\BOICOMP20070033\source\repos\Review Lesson Array,List and Sorting\Review Lesson Array,List and Sorting\bin\Debug\netcoreapp3.1\Review Lesson Array,List and Sorting.pdb
+C:\Users\BOICOMP20070033\source\repos\Review Lesson Array,List and Sorting\Review Lesson Array,List and Sorting\obj\Debug\netcoreapp3.1\Review Lesson Array,List and Sorting.csprojAssemblyReference.cache
+C:\Users\BOICOMP20070033\source\repos\Review Lesson Array,List and Sorting\Review Lesson Array,List and Sorting\obj\Debug\netcoreapp3.1\Review Lesson Array,List and Sorting.AssemblyInfoInputs.cache
+C:\Users\BOICOMP20070033\source\repos\Review Lesson Array,List and Sorting\Review Lesson Array,List and Sorting\obj\Debug\netcoreapp3.1\Review Lesson Array,List and Sorting.AssemblyInfo.cs
+C:\Users\BOICOMP20070033\source\repos\Review Lesson Array,List and Sorting\Review Lesson Array,List and Sorting\obj\Debug\netcoreapp3.1\Review Lesson Array,List and Sorting.csproj.CoreCompileInputs.cache
+C:\Users\BOICOMP20070033\source\repos\Review Lesson Array,List and Sorting\Review Lesson Array,List and Sorting\obj\Debug\netcoreapp3.1\Review Lesson Array,List and Sorting.dll
+C:\Users\BOICOMP20070033\source\repos\Review Lesson Array,List and Sorting\Review Lesson Array,List and Sorting\obj\Debug\netcoreapp3.1\Review Lesson Array,List and Sorting.pdb
+C:\Users\BOICOMP20070033\source\repos\Review Lesson Array,List and Sorting\Review Lesson Array,List and Sorting\obj\Debug\netcoreapp3.1\Review Lesson Array,List and Sorting.genruntimeconfig.cache
